@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Enjoy monitoring your system with the Monitoring Dashboard Script!
 
-### Key Sections:
+## Key Sections:
 
 1. **Description**: Overview of what the script does and its purpose.
 2. **Features**: List of the script’s functionalities.
