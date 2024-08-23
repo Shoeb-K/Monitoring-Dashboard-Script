@@ -131,7 +131,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Enjoy monitoring your system with the Monitoring Dashboard Script!
-```
 
 ### Key Sections:
 
