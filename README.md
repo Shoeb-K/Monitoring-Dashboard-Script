@@ -2,7 +2,7 @@
 
 ## Description
 
-The `monitor_dashboard.sh` script provides a comprehensive dashboard for monitoring system resources on a Linux-based server. It includes information about CPU usage, memory, disk usage, network statistics, process monitoring, and service status. The script is designed to be user-friendly, with colored output and formatted sections for better readability.
+The `monitor_dashboard.sh` script provides a comprehensive dashboard for monitoring system resources on a Linux-based server. It includes information about CPU usage, memory, disk usage, network statistics, process monitoring, and service status. The script is designed to be user-friendly, and with colored output and formatted sections for better readability.
 
 ## Features
 
